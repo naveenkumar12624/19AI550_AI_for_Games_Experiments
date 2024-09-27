@@ -1,8 +1,9 @@
 # Ex.No: 7  Implementation of Alpha Beta Pruning 
-### Date: 13/09/2024                                                                      
-### Register Number : 212221240057
+### Date:                                                                    
+### Register Number : 212221240033
 ### Aim: 
   Write a Alpha beta pruning algorithm to find the optimal value of MAX Player from the given graph.
+  
 ### Steps:
 1. Start the program
 2. Initially  assign MAX and MIN value as 1000 and -1000.
@@ -15,7 +16,7 @@
 9.  Stop the program. 
 
 ### Program:
-```
+```py
 # Define a large negative and positive value to represent infinity
 INF = float('inf')
 
