@@ -1,6 +1,6 @@
 # Ex.No: 5  Implementation of Jumping behavior 
 
-### DATE: 23/08/2024                                                                         
+### DATE:                                                                      
 ### REGISTER NUMBER : 212221240033
 
 ### AIM: 
@@ -92,7 +92,8 @@ pygame.quit()
 ```
 
 ### Output:
-![Screenshot 2024-08-23 122640](https://github.com/user-attachments/assets/44002297-1e3f-474a-a614-3de254169e80)
+<img src="https://github.com/user-attachments/assets/44002297-1e3f-474a-a614-3de254169e80" alt="image" width="300"/>
+
 
 ### Result:
 Thus the simple jumping behavior  was implemented.
