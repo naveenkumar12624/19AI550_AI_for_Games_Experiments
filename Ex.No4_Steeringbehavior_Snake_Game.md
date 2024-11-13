@@ -90,7 +90,8 @@ pygame.quit()
 ```
 
 ### Output:
-![image](https://github.com/user-attachments/assets/97c4ff36-91e8-4537-9d39-58088bf3e144)
+<img src="https://github.com/user-attachments/assets/97c4ff36-91e8-4537-9d39-58088bf3e144" alt="image" width="300"/>
+
 
 
 ### Result:
