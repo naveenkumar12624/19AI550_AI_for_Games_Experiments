@@ -1,8 +1,8 @@
 # Ex.No: 7 Implementation of Decision Tree Learning 
-## Date: 04.10.2024
-## Register Number : 212221240057
-## Aim:
+## Date: 
+## Register Number : 212221240033
 
+## Aim:
 Design a decision tree for following data. 
 Healthy, In Cover, With Ammo -> Attack
 Hurt, In Cover, With Ammo -> Attack
@@ -81,8 +81,8 @@ plt.show()
 
 ## Output:
 
+<img src="https://github.com/user-attachments/assets/dc19cf35-1fc1-4e2b-8365-0d4b9676b6cf" width="500"/>
 
-![image](https://github.com/user-attachments/assets/dc19cf35-1fc1-4e2b-8365-0d4b9676b6cf)
 
 ## Result:
 Thus the optimum value of max player was found using minimax search.
